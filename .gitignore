@@ -5,3 +5,5 @@
 .geoip.mmdb
 /public/pdf
 # Elastic Beanstalk Files
+*.env
+.env
