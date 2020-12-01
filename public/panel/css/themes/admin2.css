@@ -1,0 +1,101 @@
+/*------------------------------------------------------------
+ADMIN 2
+------------------------------------------------------------*/
+
+.page-sidebar,
+.logo-box {
+    background: #fff;
+    border-right: 1px solid #E6E8EB;
+}
+
+.page-content,
+.page-header,
+.page-header .navbar-default,
+.page-inner:not(.login-page),
+.search-form,
+.page-header .form-control,
+.search-form #close-search {
+    background: #F7F9FA;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li,
+.page-sidebar-collapsed .page-sidebar-menu > ul > li > a {
+    width: 59px;
+}
+
+
+.accordion-menu .sub-menu,
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:hover > a {
+    background: #fff;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu ul li .sub-menu {
+    border-right: 1px solid #E6E8EB;
+    border-bottom: 1px solid #E6E8EB;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:hover > a {
+    border-top: 1px solid #E6E8EB;
+    border-right: 1px solid #E6E8EB;
+    border-bottom: 1px solid #E6E8EB;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu ul li .sub-menu:before {
+    display: block;
+    content: ' ';
+    background: #fff;
+    position: absolute;
+    width: 170px;
+    height: 1px;
+    top: -1px;
+    left: 0;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:hover > a:before {
+    display: block;
+    content: ' ';
+    background: #fff;
+    position: absolute;
+    width: 59px;
+    height: 1px;
+    top: -1px;
+    left: 0;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:hover > a:after {
+    display: block;
+    content: ' ';
+    background: #E6E8EB;
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    top: 0;
+    left: 59px;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:after {
+    display: block;
+    content: ' ';
+    background: #fff;
+    position: absolute;
+    width: 59px;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu > ul > li:hover {
+    margin-top: -1px;
+    margin-bottom: -1px;
+}
+
+#vmap {
+    background-color: #F7F9FA!important;
+}
+
+@media (max-width: 991px) {
+    .logo-sm .logo-box {
+        background: #F7F9FA;
+        border: 0;
+    }
+}
