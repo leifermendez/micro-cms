@@ -51,6 +51,9 @@ Realizar los siguientes pasos en __orden__
 - `php artisan migrate`
 - `php artisan db:seed`
 
+### Configuración
+Puedes ajustar la configuración de Stripe, Mail y valores generales en el archivo `.env` el cual debes crear de forma manual, copiándote del `.env.example`
+
 > Puedes visitarnos en https://www.codigoencasa.com/te-ayudamos-con-tu-codigo/
 
 ----
