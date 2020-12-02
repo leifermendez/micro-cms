@@ -53,6 +53,6 @@ Realizar los siguientes pasos en __orden__
 
 ![](https://i.imgur.com/PYz6TIq.png)
 
-<p align="center" style="width:100%">
-![](https://user-images.githubusercontent.com/15802366/100853143-b95c5f00-3487-11eb-8e43-e969645d2a85.gif)
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/15802366/100853143-b95c5f00-3487-11eb-8e43-e969645d2a85.gif">
 </p>
