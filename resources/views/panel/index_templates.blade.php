@@ -159,7 +159,7 @@
                 </div><!-- Row -->
             </div><!-- Main Wrapper -->
             <div class="page-footer">
-                <p>Made with <i class="fa fa-heart"></i> by stacks</p>
+                <p>Made with <i class="fa fa-heart"></i> by codigoencasa.com</p>
             </div>
         </div><!-- /Page Inner -->
         <div class="page-right-sidebar" id="main-right-sidebar">

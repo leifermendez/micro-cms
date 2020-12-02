@@ -49,4 +49,10 @@ Realizar los siguientes pasos en __orden__
 > Puedes visitarnos en https://www.codigoencasa.com/te-ayudamos-con-tu-codigo/
 
 ----
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/3UohTUS"  ><a href="//imgur.com/a/3UohTUS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://i.imgur.com/MAEzo0O.png)
+
+![](https://i.imgur.com/PYz6TIq.png)
+
+<p align="center" style="width:100%">
+![](https://user-images.githubusercontent.com/15802366/100853143-b95c5f00-3487-11eb-8e43-e969645d2a85.gif)
+</p>

@@ -32,7 +32,7 @@
     <!-- Page Sidebar -->
     <div class="page-sidebar">
         <a class="logo-box" href="{{url('admin/home')}}">
-            <span><img src="{{asset('img/logo-black.png')}}" width="120" alt=""></span>
+{{--            <span><img src="{{asset('img/logo-black.png')}}" width="120" alt=""></span>--}}
         </a>
         <div class="page-sidebar-inner">
             <div class="page-sidebar-menu">
