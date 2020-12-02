@@ -1,6 +1,8 @@
 ### Micro CMS
 Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
 
+**[DEMO](https://micro-cms-codigoencasa.herokuapp.com/)**
+
 ![](https://badgen.net/badge/PHP/>=7.1/green) ![](https://badgen.net/badge/MySQL/>=5.5/green)  ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
 
 ![](https://i.imgur.com/HU2QlVL.png)
@@ -10,8 +12,6 @@ Gestor de contenido personalizable enfocado a entusiasta de la programación o e
 **Tecnologías usadas en el proyecto.**
 > PHP, Laravel, MySQL, Blade, JavaScript
 
-
-**[DEMO](https://micro-cms-codigoencasa.herokuapp.com/)**
 
 ```text
 (ADMIN):
