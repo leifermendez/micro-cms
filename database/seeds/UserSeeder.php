@@ -35,7 +35,7 @@ class UserSeeder extends Seeder
                 'skype' => $this->faker->userName
             ],
             [
-                'name' => 'Agente',
+                'name' => 'Usuario',
                 'email' => 'user@user.com',
                 'level' => 'user',
                 'password' => bcrypt('12345678'),
