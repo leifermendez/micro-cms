@@ -37,7 +37,7 @@ El sistema está diseñado en PHP haciendo uso del framework Laravel, asegúrate
 ### Deplegar
 Si cuentas con una cuenta en heroku puedes desplegar con 1 solo click
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leifermendez/micro-cms)
 
 ### Iniciar
 Realizar los siguientes pasos en __orden__
