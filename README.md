@@ -1,13 +1,14 @@
 ### Micro CMS
 Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
 
+![](https://badgen.net/badge/PHP/>=7.1/green) ![](https://badgen.net/badge/MySQL/>=5.5/green)  ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
+
 - ¿Como instalar en Plesk, cPanel, Hosting compartido  __[Ver](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))__
 - ¿Quieres coloborar con el proyecto (Conocimiento)? __[Ver](https://github.com/leifermendez/micro-cms/projects/1)__
 
+---
+
 **[DEMO](https://micro-cms-codigoencasa.herokuapp.com/)**
-
-![](https://badgen.net/badge/PHP/>=7.1/green) ![](https://badgen.net/badge/MySQL/>=5.5/green)  ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
-
 ![](https://i.imgur.com/HU2QlVL.png)
 
 ----
