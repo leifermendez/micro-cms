@@ -1,5 +1,5 @@
 ### Micro CMS
-El siguiente proyecto tiene como objetivo fomentar la educación y el desarrollo de nuevas tecnologías. Está enfocado a todas las personas que están iniciando en el mundo de la programación como estudiantes, entusiastas entro otros.
+Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
 
 ![](https://badgen.net/packagist/php/monolog/monolog) ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
 
@@ -33,6 +33,11 @@ El sistema está diseñado en PHP haciendo uso del framework Laravel, asegúrate
 - PHP ^7.1.3
 - Base de Datos (MySQL)
 - [Composer](https://getcomposer.org/doc/00-intro.md)
+
+### Deplegar
+Si cuentas con una cuenta en heroku puedes desplegar con 1 solo click
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Iniciar
 Realizar los siguientes pasos en __orden__

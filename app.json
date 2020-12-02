@@ -1,0 +1,31 @@
+{
+  "name": "Micro-CMS (leifermendez)",
+  "description": "Micro CMS. Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.",
+  "repository": "https://github.com/leifermendez/micro-cms",
+  "logo": "https://avatars0.githubusercontent.com/u/15802366?s=460&u=77ec7ef359e8ed842aef769693f1675c0ed460fd&v=4",
+  "keywords": [
+    "php",
+    "laravel",
+    "blade"
+  ],
+  "addons": [
+    "cleardb:ignite"
+  ],
+  "scripts": {
+    "postdeploy": "php artisan migrate --force && php artisan db:seed --force"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ],
+  "env": {
+    "APP_NAME": "micro-cms-leifermendez",
+    "APP_ENV": "development",
+    "APP_KEY": {
+      "description": "This should be changed with `heroku config:set APP_KEY=xxx` after the initial deploy. Run `heroku run php artisan key:generate --show` to generate a new app key.",
+      "value": "base64:4tLwD4XBdiP0SmHjbR08bkbl7S/itIi9Xj+X6+W93eo="
+    },
+    "APP_DEBUG": "true"
+  }
+}
