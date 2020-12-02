@@ -1,7 +1,8 @@
 ### Micro CMS
 Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
 
-__[¿Como instalar en Plesk, cPanel, Hosting compartido?](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))__
+- ¿Como instalar en Plesk, cPanel, Hosting compartido  __[Ver](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))__
+- ¿Quieres coloborar con el proyecto (Conocimiento)? __[Ver](https://github.com/leifermendez/micro-cms/projects/1)__
 
 **[DEMO](https://micro-cms-codigoencasa.herokuapp.com/)**
 
