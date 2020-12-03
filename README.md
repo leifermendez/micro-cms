@@ -51,10 +51,10 @@ Realizar los siguientes pasos en __orden__
 - `composer install`
 - Crear `.env` basado en el `.env.example`
 - `composer install`
-- `php artisan key:generate`
-- `php artisan migrate`
-- `php artisan db:seed`
-
+- `php artisan key:generate` (No aplica en hosting compartido)
+- `php artisan migrate` (No aplica en hosting compartido)
+- `php artisan db:seed` (No aplica en hosting compartido)
+- `php artisan serve` (No aplica en hosting compartido)
 ### Configuración
 Puedes ajustar la configuración de Stripe, Mail y valores generales en el archivo `.env` el cual debes crear de forma manual, copiándote del `.env.example`
 
