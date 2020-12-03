@@ -46,6 +46,8 @@ Si cuentas con una cuenta en heroku puedes desplegar con 1 solo click
 ### Iniciar
 Si deseas instalar en servidor compartido (cPanel, Plesk ,etc) 
 [Ver](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))
+
+
 Realizar los siguientes pasos en __orden__
 
 - `git clone https://github.com/leifermendez/micro-cms.git`
