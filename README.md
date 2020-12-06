@@ -1,4 +1,4 @@
-### Micro CMS
+### 🎈Micro CMS
 Gestor de contenido personalizable enfocado a entusiasta de la programación o estudiantes. Puedes crear blogs, servicios, usuarios, productos, cupones, pagos entre otras cosas.
 
 ![](https://badgen.net/badge/PHP/>=7.1/green) ![](https://badgen.net/badge/MySQL/>=5.5/green)  ![](https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab)
@@ -44,6 +44,10 @@ Si cuentas con una cuenta en heroku puedes desplegar con 1 solo click
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leifermendez/micro-cms/tree/main) 
 
 ### Iniciar
+Si deseas instalar en servidor compartido (cPanel, Plesk ,etc) 
+[Ver](https://github.com/leifermendez/micro-cms/wiki/Instalaci%C3%B3n-en-cPanel,-Plesk-(Hosting-compartido))
+
+
 Realizar los siguientes pasos en __orden__
 
 - `git clone https://github.com/leifermendez/micro-cms.git`
@@ -54,7 +58,7 @@ Realizar los siguientes pasos en __orden__
 - `php artisan key:generate`
 - `php artisan migrate`
 - `php artisan db:seed`
-
+- `php artisan serve`
 ### Configuración
 Puedes ajustar la configuración de Stripe, Mail y valores generales en el archivo `.env` el cual debes crear de forma manual, copiándote del `.env.example`
 
